@@ -1,0 +1,19 @@
+{
+  "name": "beejelly-falcor",
+  "version": "1.0.0",
+  "description": "Backend de BEEJelly con base de datos Falcorjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beeva-juanramonrivero/BEEJelly-Falcor.git"
+  },
+  "author": "Juan Ramon Rivero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beeva-juanramonrivero/BEEJelly-Falcor/issues"
+  },
+  "homepage": "https://github.com/beeva-juanramonrivero/BEEJelly-Falcor#readme"
+}
