@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/beeva-juanramonrivero/BEEJelly-Falcor/issues"
   },
-  "homepage": "https://github.com/beeva-juanramonrivero/BEEJelly-Falcor#readme"
+  "homepage": "https://github.com/beeva-juanramonrivero/BEEJelly-Falcor#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "falcor-express": "^0.1.4",
+    "falcor-router": "^0.8.0"
+  }
 }
